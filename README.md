@@ -1,4 +1,4 @@
-# [languages-apkpure-com](https://translate.apkpure.com/projects/apkpure/apkpurecom/)
+# [languages-apkpure-longtext](https://translate.apkpure.com/projects/apkpure/apkpure-longtext/)
 This repo stores a multilanguage text corpus for the Web verison of APKPure.
 
 ## Notice:
