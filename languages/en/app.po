@@ -1,0 +1,3 @@
+msgctxt "[\"TEST\"]"
+msgid "TEST"
+msgstr "TEST"
