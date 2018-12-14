@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:05+0000\n"
 "PO-Revision-Date: 2018-12-14 19:35+0000\n"
-"Last-Translator: pirate lll <silverlanun33@gmail.com>\n"
+"Last-Translator: Tigresadelmar <Mariobros2070@protonmail.ch>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ru/>\n"
 "Language: ru\n"
@@ -410,7 +410,7 @@ msgstr "Отправить"
 
 msgctxt "[\"REPORT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
-msgstr "Отправить Email: <strong>support@apkpure.com</strong>"
+msgstr "Отправить Email : <strong> support@apkpure.com</strong>"
 
 msgctxt "[\"REPORT-FB\"]"
 msgid "Feedback"
@@ -418,11 +418,11 @@ msgstr "Обратная связь"
 
 msgctxt "[\"REPORT-SR\"]"
 msgid "Submit a Report"
-msgstr "Отправить жалобу"
+msgstr "Отhttp://www.zamora.es/править жалобу"
 
 msgctxt "[\"FAQ-WW\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Почему apkpure.com на 100% безопасен?"
+msgstr "Почему мы можем гарантировать АПК 100% безопасность?"
 
 #, fuzzy
 msgctxt "[\"FAQ-WA\"]"
