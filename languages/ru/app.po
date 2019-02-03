@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:05+0000\n"
-"PO-Revision-Date: 2019-02-03 10:26+0000\n"
-"Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
+"PO-Revision-Date: 2019-03-11 09:33+0000\n"
+"Last-Translator: Romik Medvedik <rmedvedik1@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ru/>\n"
 "Language: ru\n"
@@ -15,10 +15,12 @@ msgstr ""
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.2.2\n"
 
+#, fuzzy
 msgctxt "[\"APPEAL-APPEAL\"]"
 msgid "APKPure Block Appeal"
 msgstr "Жалоба о блокировке APKPure"
 
+#, fuzzy
 msgctxt "[\"APPEAL-KEEP\"]"
 msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
 msgstr ""
@@ -28,42 +30,52 @@ msgstr ""
 "предоставляете, помогут нам улучшить способы для сохранения безопасности "
 "APKPure."
 
+#, fuzzy
 msgctxt "[\"APPEAL-PE\"]"
 msgid "Please explain why you think this was an error"
 msgstr "Объясните, пожалуйста, почему вы считаете, что это  ошибка"
 
+#, fuzzy
 msgctxt "[\"APPEAL-YN\"]"
 msgid "Your name"
 msgstr "Имя"
 
+#, fuzzy
 msgctxt "[\"APPEAL-YE\"]"
 msgid "Your email"
 msgstr "Адрес электронной почты"
 
+#, fuzzy
 msgctxt "[\"APPEAL-YM\"]"
 msgid "Your message"
 msgstr "Ваше сообщение"
 
+#, fuzzy
 msgctxt "[\"APPEAL-VC\"]"
 msgid "Verification code"
 msgstr "Код подтверждения"
 
+#, fuzzy
 msgctxt "[\"APPEAL-SD\"]"
 msgid "Send"
 msgstr "Отправить"
 
+#, fuzzy
 msgctxt "[\"APPEAL-SENDING\"]"
 msgid "Sending..."
 msgstr "Отправляется..."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-AC\"]"
 msgid "APKPure Community Guidelines"
 msgstr "Руководство Сообщества APKPure"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CG\"]"
 msgid "Community Guidelines"
 msgstr "Руководство Сообщества"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-WY\"]"
 msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
 msgstr ""
@@ -72,6 +84,7 @@ msgstr ""
 "определенный уровень доверия. Миллионы пользователей уважают это доверие, и "
 "мы верим, что вы тоже несете ответственность."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-YM\"]"
 msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
 msgstr ""
@@ -80,50 +93,59 @@ msgstr ""
 "рассмотрение нашим сотрудникам APKPure. Наши сотрудники тщательно "
 "анализируют содержание жалобы о нарушении правил сообщества."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-WR\"]"
 msgid "We respectfully request that you follow these policies when commenting on an application:"
 msgstr ""
 "Мы с уважением просим вас следовать этим правилам при комментировании "
 "приложения:"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CT\"]"
 msgid "Don’t post content that is sexually explicit or contains profanity."
 msgstr ""
 "Не публикуйте контент, который является откровенно сексуальным или содержит "
 "ненормативную лексику."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-VO\"]"
 msgid "Don’t post violent or horrible or bloody images."
 msgstr "Не публикуйте насильственные или ужасные или кровавые изображения."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-FR\"]"
 msgid "Don’t post fake reviews intended to boost or lower ratings."
 msgstr ""
 "Не публикуйте фальшивые отзывы, предназначенные для повышения или понижения "
 "рейтингов."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-AO\"]"
 msgid "Don’t post content that is abusive or hateful or threatens or harasses others."
 msgstr ""
 "Не публикуйте контент, который является оскорбительным и ненавистным, или "
 "угрожает и донимает других."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CC\"]"
 msgid "Don’t post content considered spam or advertising phishing sites links."
 msgstr ""
 "Не публикуйте контент, который считается спамом или ссылками на фишинговые "
 "сайты."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-DO\"]"
 msgid "Don’t post discriminatory or derogatory comments."
 msgstr "Не отправляйте дискриминационные или уничижительные комментарии."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PR\"]"
 msgid "Don’t post political, religious, and other \"prone to huge arguments\" content."
 msgstr ""
 "Не публикуйте политические, религиозные и другие контенты,которые склонны к "
 "огромным аргументам."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PI\"]"
 msgid "Don't Post personally identifiable information (i.e. name, address, email, phone number, etc.), or any other information that is not publicly accessible."
 msgstr ""
@@ -131,37 +153,45 @@ msgstr ""
 "почты, номер телефона и т. д.), Или любую другую информацию, которая не "
 "является общедоступной."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-IO\"]"
 msgid "In order to make our community strong, you might also like to follow these guidelines and tips:"
 msgstr ""
 "Вы также можете следовать этим рекомендациям и советам, чтобы сделать наше "
 "сообщество сильным:"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-KT\"]"
 msgid "Keep it readable; don't use excessive capitalization and punctuation."
 msgstr ""
 "Держите его читаемым; не используйте чрезмерную капитализацию и пунктуацию."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PC\"]"
 msgid "Post clear, valuable, and honest information."
 msgstr "Опубликуйте четкую, ценную и честную информацию."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-TT\"]"
 msgid "Try to include both positives and drawbacks."
 msgstr "Попробуйте комментировать как положительные, так и недостатки."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-BN\"]"
 msgid "Be nice to others; don't attack others."
 msgstr "Подружитесь с другим пользователем; не нападайте на других."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-UP\"]"
 msgid "Use proper grammar and check your spelling."
 msgstr "Используйте правильную грамматику и проверьте правописание."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-MY\"]"
 msgid "Make your comments useful and informative."
 msgstr "Сделайте ваши комментарии полезными и информативными."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-WW\"]"
 msgid "We will remove any comments that include such materials, and we reserve the right to block or remove any user who does not comply with these community guidelines. Thank you!"
 msgstr ""
@@ -169,14 +199,17 @@ msgstr ""
 "право заблокировать или удалить любого      пользователя, который не "
 "соответствует этим правилам сообщества. Спасибо!"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-DB\"]"
 msgid "Developer Badge"
 msgstr "Значок разработчика"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-AD\"]"
 msgid "APKPure Developer Badge Explanation"
 msgstr "Пояснение значка разработчика APKPure"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-TG\"]"
 msgid "The green badge means it’s an official authenticated developer of application."
 msgstr ""
@@ -185,12 +218,14 @@ msgstr ""
 "Значок появляется рядом с именем в профиле учетной записи. Он всегда одного "
 "цвета и размещен в одном месте, независимо от настройки профиля или темы."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-TB\"]"
 msgid "The badge appears next to the name on an account’s profile. It is always the same color and placed in the same location, regardless of profile or theme color customization."
 msgstr ""
 "Значок появляется рядом с именем в профиле учетной записи. Он всегда одного "
 "цвета и размещен в одном месте, независимо от настройки профиля или темы."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-IA\"]"
 msgid "If accounts that don’t have the badge next to their name but that display it somewhere else, for example in the profile photo, header photo, or bio, are not verified accounts."
 msgstr ""
@@ -199,44 +234,53 @@ msgstr ""
 "фотографии заголовка или биографии, не являются проверенными учетными "
 "записями."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-DC\"]"
 msgid "Authenticated developer can post reliable comment, activity and official announcement."
 msgstr ""
 "Аутентифицированный разработчик может опубликовать надежный комментарий, "
 "активность и официальное объявление."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-HT\"]"
 msgid "How to be a Authenticated Developer?"
 msgstr "Как стать аутентифицированным разработчиком?"
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-LI\"]"
 msgid "Log in our APKPure website and enter Developer Platform."
 msgstr "Войдите в наш сайт APKPure и войдите в платформу разработчика."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-FI\"]"
 msgid "Fill in the necessary information and upload it."
 msgstr "Заполните необходимую информацию и загрузите ее."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-AV\"]"
 msgid "Await verification by our staff."
 msgstr "Подождите проверки нашими сотрудниками."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-PV\"]"
 msgid "Pass verification will be entitled Authenticated Developer."
 msgstr ""
 "После прохождения проверки будет озаглавлена  аутентифицированным "
 "разработчиком."
 
+#, fuzzy
 msgctxt "[\"DEVELOPER-MA\"]"
 msgid "More Authenticated badges are still maturing. If you have more constructive suggestions, please @APKPure and tell us. Thank you!"
 msgstr ""
 "Больше удостоверений на подлинность все еще созревают. Если у вас есть более "
 "конструктивные предложения, пожалуйста, @APKPure и сообщите нам. Спасибо!"
 
+#, fuzzy
 msgctxt "[\"CONTACT-CU\"]"
 msgid "Contact Us"
 msgstr "Контакт"
 
+#, fuzzy
 msgctxt "[\"CONTACT-IY\"]"
 msgid "If you want to Contact APKPure administrator, Send your suggestions, Report website bugs, or Submit your apps, Please contact us using the following way:"
 msgstr ""
@@ -244,66 +288,82 @@ msgstr ""
 "предложения, сообщите об ошибках веб-сайта или отправьте свои приложения,  "
 "пожалуйста, свяжитесь с нами, используя следующий способ:"
 
+#, fuzzy
 msgctxt "[\"CONTACT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
 msgstr "Отправить Email : <strong> support@apkpure.com</strong>"
 
+#, fuzzy
 msgctxt "[\"CONTACT-FB\"]"
 msgid "Feedback"
 msgstr "Обратная связь"
 
+#, fuzzy
 msgctxt "[\"CONTACT-YN\"]"
 msgid "Your name"
 msgstr "Ваше имя"
 
+#, fuzzy
 msgctxt "[\"CONTACT-YE\"]"
 msgid "Your email"
 msgstr "Электронная почта"
 
+#, fuzzy
 msgctxt "[\"CONTACT-SB\"]"
 msgid "Subject"
 msgstr "Тема"
 
+#, fuzzy
 msgctxt "[\"CONTACT-RF\"]"
 msgid "Reason for contact"
 msgstr "Причина контакта"
 
+#, fuzzy
 msgctxt "[\"CONTACT-CA\"]"
 msgid "Comments and feedback"
 msgstr "Комментарии и отзывы"
 
+#, fuzzy
 msgctxt "[\"CONTACT-RA\"]"
 msgid "Report a problem"
 msgstr "Сообщить о проблеме"
 
+#, fuzzy
 msgctxt "[\"CONTACT-DT\"]"
 msgid "DMCA takedown request"
 msgstr "Запрос на демонтаж DMCA"
 
+#, fuzzy
 msgctxt "[\"CONTACT-DS\"]"
 msgid "Developer Support and Feedback"
 msgstr "Поддержка разработчиков и отзывы"
 
+#, fuzzy
 msgctxt "[\"CONTACT-OT\"]"
 msgid "Others"
 msgstr "Другие"
 
+#, fuzzy
 msgctxt "[\"CONTACT-YM\"]"
 msgid "Your message"
 msgstr "Ваше сообщение"
 
+#, fuzzy
 msgctxt "[\"CONTACT-VC\"]"
 msgid "Verification code"
 msgstr "Код подтверждения"
 
+#, fuzzy
 msgctxt "[\"CONTACT-SD\"]"
 msgid "Send"
 msgstr "отправить"
 
+#, fuzzy
 msgctxt "[\"CONTACT-QO\"]"
 msgid "Questions or Comments"
 msgstr "Вопросы или Комментарии"
 
+#, fuzzy
 msgctxt "[\"CONTACT-SDING\"]"
 msgid "Sending..."
 msgstr "Отправляется..."
