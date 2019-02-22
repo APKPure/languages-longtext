@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:03+0000\n"
 "PO-Revision-Date: 2019-02-27 09:19+0000\n"
-"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
+"Last-Translator: 고길리 <jusim333@gmail.com>\n"
 "Language-Team: Japanese <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ja/>\n"
 "Language: ja\n"
@@ -14,9 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 3.2.2\n"
 
+#, fuzzy
 msgctxt "[\"APPEAL-APPEAL\"]"
 msgid "APKPure Block Appeal"
-msgstr ""
+msgstr "Appello per blocco APKPure"
 
 msgctxt "[\"APPEAL-KEEP\"]"
 msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
@@ -28,13 +29,15 @@ msgctxt "[\"APPEAL-PE\"]"
 msgid "Please explain why you think this was an error"
 msgstr "これがエラーだと思う理由をご説明いただけますでしょうか"
 
+#, fuzzy
 msgctxt "[\"APPEAL-YN\"]"
 msgid "Your name"
-msgstr ""
+msgstr "Tuo nome"
 
+#, fuzzy
 msgctxt "[\"APPEAL-YE\"]"
 msgid "Your email"
-msgstr ""
+msgstr "Tua email"
 
 msgctxt "[\"APPEAL-YM\"]"
 msgid "Your message"
@@ -44,21 +47,25 @@ msgctxt "[\"APPEAL-VC\"]"
 msgid "Verification code"
 msgstr "検証コード"
 
+#, fuzzy
 msgctxt "[\"APPEAL-SD\"]"
 msgid "Send"
-msgstr "送信"
+msgstr "Send"
 
+#, fuzzy
 msgctxt "[\"APPEAL-SENDING\"]"
 msgid "Sending..."
-msgstr "送信中..."
+msgstr "Sending..."
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-AC\"]"
 msgid "APKPure Community Guidelines"
 msgstr "APKPure コミュニティ ガイドライン"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CG\"]"
 msgid "Community Guidelines"
-msgstr "コミュニティガイドライン"
+msgstr "Community Guidelines"
 
 msgctxt "[\"COMMUNITY-WY\"]"
 msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
