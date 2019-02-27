@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:03+0000\n"
-"PO-Revision-Date: 2019-02-27 09:19+0000\n"
-"Last-Translator: 고길리 <jusim333@gmail.com>\n"
+"PO-Revision-Date: 2019-03-11 09:33+0000\n"
+"Last-Translator: tatsu u <utatsu716@gmail.com>\n"
 "Language-Team: Japanese <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ja/>\n"
 "Language: ja\n"
@@ -47,31 +47,27 @@ msgctxt "[\"APPEAL-VC\"]"
 msgid "Verification code"
 msgstr "検証コード"
 
-#, fuzzy
 msgctxt "[\"APPEAL-SD\"]"
 msgid "Send"
-msgstr "Send"
+msgstr "送信"
 
-#, fuzzy
 msgctxt "[\"APPEAL-SENDING\"]"
 msgid "Sending..."
-msgstr "Sending..."
+msgstr "送信中..."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-AC\"]"
 msgid "APKPure Community Guidelines"
 msgstr "APKPure コミュニティ ガイドライン"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-CG\"]"
 msgid "Community Guidelines"
-msgstr "Community Guidelines"
+msgstr "コミュニティガイドライン"
 
 msgctxt "[\"COMMUNITY-WY\"]"
 msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
 msgstr ""
-"APKPureを使用すると、世界中の人々が参加しているコミュニティに参加できます。APKPureのクールで新しいコミュニティ機能には、ある程度の信頼関係が"
-"必要です。何百万のユーザーがその信頼を尊重し、あなたも分かってくれると信じています。"
+"APKPureを使用することで、世界中の人々が参加しているコミュニティに参加できます。APKPureのクールで新しいコミュニティ機能には、ある程度の信頼関"
+"係が必要です。何百万のユーザーがその信頼を尊重し、あなたも分かってくれると信じています。"
 
 msgctxt "[\"COMMUNITY-YM\"]"
 msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
@@ -329,128 +325,137 @@ msgstr "スパム広告やプロモーション"
 
 msgctxt "[\"REPORT-TP\"]"
 msgid "Illegal prescription or other drugs related content"
-msgstr ""
+msgstr "違法な処方箋やその他の薬物関連コンテンツ"
 
 msgctxt "[\"REPORT-RU\"]"
 msgid "Report user:"
-msgstr ""
+msgstr "ユーザーを報告する："
 
 msgctxt "[\"REPORT-IR\"]"
 msgid "Improper rating on apps"
-msgstr ""
+msgstr "アプリに対する不適切な評価"
 
 msgctxt "[\"REPORT-RF\"]"
 msgid "Reason for reporting:"
-msgstr ""
+msgstr "報告の理由:"
 
 msgctxt "[\"REPORT-MW\"]"
 msgid "Virus or malware"
-msgstr ""
+msgstr "ウイルスまたはマルウェア"
 
 msgctxt "[\"REPORT-IT\"]"
 msgid "IP Infringement"
-msgstr ""
+msgstr "IP侵害"
 
 msgctxt "[\"REPORT-FA\"]"
 msgid "Fake apps or version error"
-msgstr ""
+msgstr "偽アプリまたはバージョンエラー"
 
 msgctxt "[\"REPORT-AO\"]"
 msgid "Any other things you wanna tell us?"
-msgstr ""
+msgstr "他に私たちに伝えたいことは?"
 
 msgctxt "[\"REPORT-VC\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "検証コード"
 
 msgctxt "[\"REPORT-SDING\"]"
 msgid "Sending..."
-msgstr ""
+msgstr "送信中..."
 
 msgctxt "[\"REPORT-SD\"]"
 msgid "Send"
-msgstr ""
+msgstr "送信"
 
 msgctxt "[\"REPORT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
-msgstr ""
+msgstr "メール送信：<strong>support@apkpure.com</strong>"
 
 msgctxt "[\"REPORT-FB\"]"
 msgid "Feedback"
-msgstr ""
+msgstr "フィードバック"
 
 msgctxt "[\"REPORT-SR\"]"
 msgid "Submit a Report"
-msgstr ""
+msgstr "報告を送信する"
 
 msgctxt "[\"FAQ-WW\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr ""
+msgstr "APKを100％安全に保証できる理由は？"
 
 msgctxt "[\"FAQ-WA\"]"
 msgid "Why <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is 100% safe?"
 msgstr ""
+"<a target=\"_blank\" href=\"https://apkpure.com\""
+">apkpure.com</a>が100％安全なのはなぜですか？"
 
 msgctxt "[\"FAQ-NW\"]"
 msgid "Note: We’ll decline all APKs with ‘debug’ certificate, which are not safe."
-msgstr ""
+msgstr "注：「デバッグ」証明書で全ての不安全なAPKを拒否します。"
 
 msgctxt "[\"FAQ-TB\"]"
 msgid "Trusted Badge"
-msgstr ""
+msgstr "信頼されたバッジ"
 
 msgctxt "[\"FAQ-OR\"]"
 msgid "Official records from APKPure and Google Play confirm that the developer used a trusted and verified digital signature. The downloadable file is original and it has not been modified in any way."
 msgstr ""
+"APKPure と Google Play からの公式記録は、開発者が信頼できる検証済みのデジタル署名を使用していることを確認します。ダウンロード可能なフ"
+"ァイルはオリジナルであり、それはどのような方法でも変更されていません。"
 
 msgctxt "[\"FAQ-WU\"]"
 msgid "Why using SHA1 to check the identification of certificate is safe?"
-msgstr ""
+msgstr "なぜ SHA1 を使用して証明書の認証を確認するのは安全ですか?"
 
 msgctxt "[\"FAQ-TA\"]"
 msgid "That’s a cryptography problem. Please refer to the following authoritative information to check the reason."
-msgstr ""
+msgstr "それは暗号化の問題です。理由を確認するには、以下の情報を参照してください。"
 
 msgctxt "[\"FAQ-HD\"]"
 msgid "How do we make sure the updated Apps are real and created by the respective developers?"
-msgstr ""
+msgstr "更新されたアプリがリアルで、それぞれの開発者によって作成されたものであることをどのように確認しますか？"
 
 msgctxt "[\"FAQ-AA\"]"
 msgid "All APKPure.com apps are verified prior to publishing."
-msgstr ""
+msgstr "すべての APKPure.com アプリは、公開前に検証されます。"
 
 msgctxt "[\"FAQ-WM\"]"
 msgid "We make sure that the cryptographic signatures for new versions of all previously published apps match the original ones, which means we know if the new version APKs were signed by the real devs or someone pretending to be them."
 msgstr ""
+"これまでに公開されたすべてのアプリの新しいバージョンの暗号化署名が元のものと一致することを確認します。つまり、新しいバージョンのAPKが実際の開発者または"
+"そのふりをしている人によって署名されたかどうかがわかります。"
 
 msgctxt "[\"FAQ-FN\"]"
 msgid "For new apps that have never been published on APKPure.com, we try to match the signatures to other existing apps by the same developer. If there’s a match, it means that the same key was used to sign a previously known legitimate app, therefore validating the new upload. If we’re unable to verify the legitimacy of a new APK, we will simply not publish it on APKPure.com."
 msgstr ""
+"APKPure.com で公開されたことがない新しいアプリについては、同じ開発者による署名を他の既存のアプリと照合します。一致する場合は、同じキーが以前に"
+"既知の合法的なアプリに署名するために使用されたため、新しいアップロードを検証することを意味します。新しいAPKの正当性を確認できない場合は、APKPure"
+".comに公開しません。"
 
 msgctxt "[\"FAQ-RF\"]"
 msgid "References"
-msgstr ""
+msgstr "リファレンス"
 
 msgctxt "[\"FAQ-WK\"]"
 msgid "Wiki:Android application package"
-msgstr ""
+msgstr "Wiki：Androidアプリケーションパッケージ"
 
 msgctxt "[\"FAQ-SY\"]"
 msgid "Signing Your Applications"
-msgstr ""
+msgstr "アプリケーションに署名する"
 
 msgctxt "[\"FAQ-AS\"]"
 msgid "Application Signature Verification: How It Works"
-msgstr ""
+msgstr "アプリケーション署名の検証：仕組み"
 
 msgctxt "[\"FAQ-US\"]"
 msgid "Understanding Signing and Verification"
-msgstr ""
+msgstr "署名と検証について"
 
 msgctxt "[\"FAQ-XC\"]"
 msgid "X.509 Certificates and Certificate Revocation Lists (CRLs)"
-msgstr ""
+msgstr "X.509証明書と証明書失効リスト（CRL）"
 
 msgctxt "[\"FAQ-WHY\"]"
 msgid "Why APKPure is 100% safe?"
-msgstr ""
+msgstr "APKPureが100％安全なのはなぜですか？"
