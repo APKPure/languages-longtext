@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:03+0000\n"
-"PO-Revision-Date: 2019-03-19 01:36+0000\n"
+"PO-Revision-Date: 2019-03-22 08:19+0000\n"
 "Last-Translator: 咕噜噜 <yaolu_1024@126.com>\n"
 "Language-Team: Korean <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ko/>\n"
@@ -76,7 +76,7 @@ msgstr ""
 
 msgctxt "[\"COMMUNITY-WR\"]"
 msgid "We respectfully request that you follow these policies when commenting on an application:"
-msgstr "애플리케이션에 대한 논평할 때 다음 정책을 준수할 것을 정중히 요청합니다"
+msgstr "애플리케이션에 대한 논평할 때 다음 정책을 준수할 것을 정중히 요청합니다:"
 
 msgctxt "[\"COMMUNITY-CT\"]"
 msgid "Don’t post content that is sexually explicit or contains profanity."
@@ -185,10 +185,9 @@ msgctxt "[\"DEVELOPER-AV\"]"
 msgid "Await verification by our staff."
 msgstr "직원이 확인을 기다리고 있습니다."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-PV\"]"
 msgid "Pass verification will be entitled Authenticated Developer."
-msgstr "통과 확인에는 인증 된 개발자 권한이 부여됩니다."
+msgstr "통과 확인에는 인증된 개발자 권한이 부여됩니다."
 
 msgctxt "[\"DEVELOPER-MA\"]"
 msgid "More Authenticated badges are still maturing. If you have more constructive suggestions, please @APKPure and tell us. Thank you!"
@@ -205,7 +204,7 @@ msgstr ""
 
 msgctxt "[\"CONTACT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
-msgstr "이메일 보내기 : <strong>1support@apkpure.com </ strong> 2"
+msgstr "이메일 보내기 : <strong> support@apkpure.com </strong>"
 
 msgctxt "[\"CONTACT-FB\"]"
 msgid "Feedback"
@@ -273,25 +272,23 @@ msgstr "부적절한 콘텐츠 또는 앱의 URL"
 
 msgctxt "[\"REPORT-YN\"]"
 msgid "Your name"
-msgstr "당신의 이름"
+msgstr "이름"
 
 msgctxt "[\"REPORT-YE\"]"
 msgid "Your email"
 msgstr "이메일"
 
-#, fuzzy
 msgctxt "[\"REPORT-RC\"]"
 msgid "Report comment:"
-msgstr "신고 의견 :"
+msgstr "댓글 신고:"
 
 msgctxt "[\"REPORT-PC\"]"
 msgid "Pornographic content"
 msgstr "포르노 콘텐츠"
 
-#, fuzzy
 msgctxt "[\"REPORT-RT\"]"
 msgid "Report tag:"
-msgstr "보고서 태그 :"
+msgstr "태그 신고:"
 
 msgctxt "[\"REPORT-MD\"]"
 msgid "Misleading"
@@ -305,7 +302,6 @@ msgctxt "[\"REPORT-OI\"]"
 msgid "Other issues"
 msgstr "기타 문제"
 
-#, fuzzy
 msgctxt "[\"REPORT-HO\"]"
 msgid "Hateful or abusive content"
 msgstr "혐오스럽거나 악의적인 콘텐츠"
@@ -330,25 +326,22 @@ msgctxt "[\"REPORT-TP\"]"
 msgid "Illegal prescription or other drugs related content"
 msgstr "불법 처방 또는 기타 의약품 관련 콘텐츠"
 
-#, fuzzy
 msgctxt "[\"REPORT-RU\"]"
 msgid "Report user:"
-msgstr "보고서 사용자:"
+msgstr "사용자 신고:"
 
-#, fuzzy
 msgctxt "[\"REPORT-IR\"]"
 msgid "Improper rating on apps"
-msgstr "앱에 대한 잘못된 등급"
+msgstr "앱의 부적절한 평가"
 
 msgctxt "[\"REPORT-RF\"]"
 msgid "Reason for reporting:"
-msgstr "보고 사유:"
+msgstr "신고 사유:"
 
 msgctxt "[\"REPORT-MW\"]"
 msgid "Virus or malware"
 msgstr "바이러스 또는 악성 소프트웨어"
 
-#, fuzzy
 msgctxt "[\"REPORT-IT\"]"
 msgid "IP Infringement"
 msgstr "IP 침해"
@@ -375,7 +368,7 @@ msgstr "보내기"
 
 msgctxt "[\"REPORT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
-msgstr "이메일 보내기 : <strong>1support@apkpure.com </ strong>2"
+msgstr "이메일 보내기 : <strong> support@apkpure.com </strong>"
 
 msgctxt "[\"REPORT-FB\"]"
 msgid "Feedback"
@@ -392,7 +385,7 @@ msgstr "APK 100 % 안전을 보장할 수있는 이유는 무엇입니까?"
 msgctxt "[\"FAQ-WA\"]"
 msgid "Why <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is 100% safe?"
 msgstr ""
-"<a target=\"_blank\" href=\"https://apkpkpure.com\">1apkpure.com</a>2가 100% "
+"<a target=\"_blank\" href=\"https://apkpkpure.com\">apkpure.com</a>가 100% "
 "안전한 이유는 무엇입니까?"
 
 msgctxt "[\"FAQ-NW\"]"
@@ -409,10 +402,9 @@ msgstr ""
 "APKPure 및 Google Play의 공식 기록은 개발자가 신뢰할 수 있고 검증된 디지털 서명을 사용했음을 확인합니다. 다운로드 "
 "가능한 파일이 원본이며 어떤 방식으로도 수정되지 않았습니다."
 
-#, fuzzy
 msgctxt "[\"FAQ-WU\"]"
 msgid "Why using SHA1 to check the identification of certificate is safe?"
-msgstr "SHA1을 사용하여  인증서의 신원을 확인하는 이유는 무엇입니까?"
+msgstr "SHA1을 사용하여  인증서의 식별을 확인하는 이유는 무엇입니까?"
 
 msgctxt "[\"FAQ-TA\"]"
 msgid "That’s a cryptography problem. Please refer to the following authoritative information to check the reason."
@@ -461,7 +453,7 @@ msgstr "서명 및 검증 이해"
 
 msgctxt "[\"FAQ-XC\"]"
 msgid "X.509 Certificates and Certificate Revocation Lists (CRLs)"
-msgstr "X.509 인증서 및 인증서 해지 목록 (CRL)"
+msgstr "X.509 인증서 및 인증서 해지 목록 (CRLs)"
 
 msgctxt "[\"FAQ-WHY\"]"
 msgid "Why APKPure is 100% safe?"
