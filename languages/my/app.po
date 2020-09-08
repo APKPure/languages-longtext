@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-04 03:55+0000\n"
-"PO-Revision-Date: 2020-01-04 01:36+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-09 05:10+0000\n"
+"Last-Translator: Thet Soe Oo <thetsoeoo2004@gmail.com>\n"
+"Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
+"apkpure-longtext/my/>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.7.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 msgctxt "[\"APPEAL-APPEAL\"]"
 msgid "APKPure Block Appeal"
@@ -233,9 +234,10 @@ msgctxt "[\"CONTACT-OT\"]"
 msgid "Others"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"CONTACT-YM\"]"
 msgid "Your message"
-msgstr ""
+msgstr "သင်၏ မတ်ဆေ့ချ်"
 
 msgctxt "[\"CONTACT-VC\"]"
 msgid "Verification code"
@@ -257,13 +259,14 @@ msgctxt "[\"REPORT-AS\"]"
 msgid "URL of inappropriate content or apps"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"REPORT-YN\"]"
 msgid "Your name"
-msgstr ""
+msgstr "သင့်အမည်"
 
 msgctxt "[\"REPORT-YE\"]"
 msgid "Your email"
-msgstr ""
+msgstr "သင့်အီးမေးလ်"
 
 msgctxt "[\"REPORT-RC\"]"
 msgid "Report comment:"
@@ -341,17 +344,20 @@ msgctxt "[\"REPORT-AO\"]"
 msgid "Any other things you wanna tell us?"
 msgstr ""
 
+#, fuzzy
 msgctxt "[\"REPORT-VC\"]"
 msgid "Verification code"
-msgstr ""
+msgstr "အတည်ပြုကုဒ်"
 
+#, fuzzy
 msgctxt "[\"REPORT-SDING\"]"
 msgid "Sending..."
-msgstr ""
+msgstr "ပေးပို့နေသည်..."
 
+#, fuzzy
 msgctxt "[\"REPORT-SD\"]"
 msgid "Send"
-msgstr ""
+msgstr "ပေးပို့"
 
 msgctxt "[\"REPORT-SE\"]"
 msgid "Send Email: <strong>support@apkpure.com</strong>"
