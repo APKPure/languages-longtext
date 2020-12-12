@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 03:55+0000\n"
+"PO-Revision-Date: 2020-08-14 11:31+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
+
+msgctxt "[\"APPEAL-APPEAL\"]"
+msgid "APKPure Block Appeal"
+msgstr ""
+
+msgctxt "[\"APPEAL-KEEP\"]"
+msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
+msgstr ""
+
+msgctxt "[\"APPEAL-PE\"]"
+msgid "Please explain why you think this was an error"
+msgstr ""
+
+msgctxt "[\"APPEAL-YN\"]"
+msgid "Your name"
+msgstr ""
+
+msgctxt "[\"APPEAL-YE\"]"
+msgid "Your email"
+msgstr ""
+
+msgctxt "[\"APPEAL-YM\"]"
+msgid "Your message"
+msgstr ""
+
+msgctxt "[\"APPEAL-VC\"]"
+msgid "Verification code"
+msgstr ""
+
+msgctxt "[\"APPEAL-SD\"]"
+msgid "Send"
+msgstr ""
+
+msgctxt "[\"APPEAL-SENDING\"]"
+msgid "Sending..."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-AC\"]"
+msgid "APKPure Community Guidelines"
+msgstr ""
+
+msgctxt "[\"COMMUNITY-CG\"]"
+msgid "Community Guidelines"
+msgstr ""
+
+msgctxt "[\"COMMUNITY-WY\"]"
+msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-YM\"]"
+msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-WR\"]"
+msgid "We respectfully request that you follow these policies when commenting on an application:"
+msgstr ""
+
+msgctxt "[\"COMMUNITY-CT\"]"
+msgid "Don’t post content that is sexually explicit or contains profanity."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-VO\"]"
+msgid "Don’t post violent or horrible or bloody images."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-FR\"]"
+msgid "Don’t post fake reviews intended to boost or lower ratings."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-AO\"]"
+msgid "Don’t post content that is abusive or hateful or threatens or harasses others."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-CC\"]"
+msgid "Don’t post content considered spam or advertising phishing sites links."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-DO\"]"
+msgid "Don’t post discriminatory or derogatory comments."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-PR\"]"
+msgid "Don’t post political, religious, and other \"prone to huge arguments\" content."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-PI\"]"
+msgid "Don't Post personally identifiable information (i.e. name, address, email, phone number, etc.), or any other information that is not publicly accessible."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-IO\"]"
+msgid "In order to make our community strong, you might also like to follow these guidelines and tips:"
+msgstr ""
+
+msgctxt "[\"COMMUNITY-KT\"]"
+msgid "Keep it readable; don't use excessive capitalization and punctuation."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-PC\"]"
+msgid "Post clear, valuable, and honest information."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-TT\"]"
+msgid "Try to include both positives and drawbacks."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-BN\"]"
+msgid "Be nice to others; don't attack others."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-UP\"]"
+msgid "Use proper grammar and check your spelling."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-MY\"]"
+msgid "Make your comments useful and informative."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-WW\"]"
+msgid "We will remove any comments that include such materials, and we reserve the right to block or remove any user who does not comply with these community guidelines. Thank you!"
+msgstr ""
+
+msgctxt "[\"DEVELOPER-DB\"]"
+msgid "Developer Badge"
+msgstr ""
+
+msgctxt "[\"DEVELOPER-AD\"]"
+msgid "APKPure Developer Badge Explanation"
+msgstr ""
+
+msgctxt "[\"DEVELOPER-TG\"]"
+msgid "The green badge means it’s an official authenticated developer of application."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-TB\"]"
+msgid "The badge appears next to the name on an account’s profile. It is always the same color and placed in the same location, regardless of profile or theme color customization."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-IA\"]"
+msgid "If accounts that don’t have the badge next to their name but that display it somewhere else, for example in the profile photo, header photo, or bio, are not verified accounts."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-DC\"]"
+msgid "Authenticated developer can post reliable comment, activity and official announcement."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-HT\"]"
+msgid "How to be a Authenticated Developer?"
+msgstr ""
+
+msgctxt "[\"DEVELOPER-LI\"]"
+msgid "Log in our APKPure website and enter Developer Platform."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-FI\"]"
+msgid "Fill in the necessary information and upload it."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-AV\"]"
+msgid "Await verification by our staff."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-PV\"]"
+msgid "Pass verification will be entitled Authenticated Developer."
+msgstr ""
+
+msgctxt "[\"DEVELOPER-MA\"]"
+msgid "More Authenticated badges are still maturing. If you have more constructive suggestions, please @APKPure and tell us. Thank you!"
+msgstr ""
+
+msgctxt "[\"CONTACT-CU\"]"
+msgid "Contact Us"
+msgstr ""
+
+msgctxt "[\"CONTACT-IY\"]"
+msgid "If you want to Contact APKPure administrator, Send your suggestions, Report website bugs, or Submit your apps, Please contact us using the following way:"
+msgstr ""
+
+msgctxt "[\"CONTACT-SE\"]"
+msgid "Send Email: <strong>support@apkpure.com</strong>"
+msgstr ""
+
+msgctxt "[\"CONTACT-FB\"]"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "[\"CONTACT-YN\"]"
+msgid "Your name"
+msgstr ""
+
+msgctxt "[\"CONTACT-YE\"]"
+msgid "Your email"
+msgstr ""
+
+msgctxt "[\"CONTACT-SB\"]"
+msgid "Subject"
+msgstr ""
+
+msgctxt "[\"CONTACT-RF\"]"
+msgid "Reason for contact"
+msgstr ""
+
+msgctxt "[\"CONTACT-CA\"]"
+msgid "Comments and feedback"
+msgstr ""
+
+msgctxt "[\"CONTACT-RA\"]"
+msgid "Report a problem"
+msgstr ""
+
+msgctxt "[\"CONTACT-DT\"]"
+msgid "DMCA takedown request"
+msgstr ""
+
+msgctxt "[\"CONTACT-DS\"]"
+msgid "Developer Support and Feedback"
+msgstr ""
+
+msgctxt "[\"CONTACT-OT\"]"
+msgid "Others"
+msgstr ""
+
+msgctxt "[\"CONTACT-YM\"]"
+msgid "Your message"
+msgstr ""
+
+msgctxt "[\"CONTACT-VC\"]"
+msgid "Verification code"
+msgstr ""
+
+msgctxt "[\"CONTACT-SD\"]"
+msgid "Send"
+msgstr ""
+
+msgctxt "[\"CONTACT-QO\"]"
+msgid "Questions or Comments"
+msgstr ""
+
+msgctxt "[\"CONTACT-SDING\"]"
+msgid "Sending..."
+msgstr ""
+
+msgctxt "[\"REPORT-AS\"]"
+msgid "URL of inappropriate content or apps"
+msgstr ""
+
+msgctxt "[\"REPORT-YN\"]"
+msgid "Your name"
+msgstr ""
+
+msgctxt "[\"REPORT-YE\"]"
+msgid "Your email"
+msgstr ""
+
+msgctxt "[\"REPORT-RC\"]"
+msgid "Report comment:"
+msgstr ""
+
+msgctxt "[\"REPORT-PC\"]"
+msgid "Pornographic content"
+msgstr ""
+
+msgctxt "[\"REPORT-RT\"]"
+msgid "Report tag:"
+msgstr ""
+
+msgctxt "[\"REPORT-MD\"]"
+msgid "Misleading"
+msgstr ""
+
+msgctxt "[\"REPORT-SM\"]"
+msgid "Spamming"
+msgstr ""
+
+msgctxt "[\"REPORT-OI\"]"
+msgid "Other issues"
+msgstr ""
+
+msgctxt "[\"REPORT-HO\"]"
+msgid "Hateful or abusive content"
+msgstr ""
+
+msgctxt "[\"REPORT-HS\"]"
+msgid "Harassment or bullying"
+msgstr ""
+
+msgctxt "[\"REPORT-FI\"]"
+msgid "Fake information or news"
+msgstr ""
+
+msgctxt "[\"REPORT-VO\"]"
+msgid "Violence or horror related content"
+msgstr ""
+
+msgctxt "[\"REPORT-SA\"]"
+msgid "Spamming ads or promotion"
+msgstr ""
+
+msgctxt "[\"REPORT-TP\"]"
+msgid "Illegal prescription or other drugs related content"
+msgstr ""
+
+msgctxt "[\"REPORT-RU\"]"
+msgid "Report user:"
+msgstr ""
+
+msgctxt "[\"REPORT-IR\"]"
+msgid "Improper rating on apps"
+msgstr ""
+
+msgctxt "[\"REPORT-RF\"]"
+msgid "Reason for reporting:"
+msgstr ""
+
+msgctxt "[\"REPORT-MW\"]"
+msgid "Virus or malware"
+msgstr ""
+
+msgctxt "[\"REPORT-IT\"]"
+msgid "IP Infringement"
+msgstr ""
+
+msgctxt "[\"REPORT-FA\"]"
+msgid "Fake apps or version error"
+msgstr ""
+
+msgctxt "[\"REPORT-AO\"]"
+msgid "Any other things you wanna tell us?"
+msgstr ""
+
+msgctxt "[\"REPORT-VC\"]"
+msgid "Verification code"
+msgstr ""
+
+msgctxt "[\"REPORT-SDING\"]"
+msgid "Sending..."
+msgstr ""
+
+msgctxt "[\"REPORT-SD\"]"
+msgid "Send"
+msgstr ""
+
+msgctxt "[\"REPORT-SE\"]"
+msgid "Send Email: <strong>support@apkpure.com</strong>"
+msgstr ""
+
+msgctxt "[\"REPORT-FB\"]"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "[\"REPORT-SR\"]"
+msgid "Submit a Report"
+msgstr ""
+
+msgctxt "[\"FAQ-WW\"]"
+msgid "Why we can guarantee APK 100% safe?"
+msgstr ""
+
+msgctxt "[\"FAQ-WA\"]"
+msgid "Why <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is 100% safe?"
+msgstr ""
+
+msgctxt "[\"FAQ-NW\"]"
+msgid "Note: We’ll decline all APKs with ‘debug’ certificate, which are not safe."
+msgstr ""
+
+msgctxt "[\"FAQ-TB\"]"
+msgid "Trusted Badge"
+msgstr ""
+
+msgctxt "[\"FAQ-OR\"]"
+msgid "Official records from APKPure and Google Play confirm that the developer used a trusted and verified digital signature. The downloadable file is original and it has not been modified in any way."
+msgstr ""
+
+msgctxt "[\"FAQ-WU\"]"
+msgid "Why using SHA1 to check the identification of certificate is safe?"
+msgstr ""
+
+msgctxt "[\"FAQ-TA\"]"
+msgid "That’s a cryptography problem. Please refer to the following authoritative information to check the reason."
+msgstr ""
+
+msgctxt "[\"FAQ-HD\"]"
+msgid "How do we make sure the updated Apps are real and created by the respective developers?"
+msgstr ""
+
+msgctxt "[\"FAQ-AA\"]"
+msgid "All APKPure.com apps are verified prior to publishing."
+msgstr ""
+
+msgctxt "[\"FAQ-WM\"]"
+msgid "We make sure that the cryptographic signatures for new versions of all previously published apps match the original ones, which means we know if the new version APKs were signed by the real devs or someone pretending to be them."
+msgstr ""
+
+msgctxt "[\"FAQ-FN\"]"
+msgid "For new apps that have never been published on APKPure.com, we try to match the signatures to other existing apps by the same developer. If there’s a match, it means that the same key was used to sign a previously known legitimate app, therefore validating the new upload. If we’re unable to verify the legitimacy of a new APK, we will simply not publish it on APKPure.com."
+msgstr ""
+
+msgctxt "[\"FAQ-RF\"]"
+msgid "References"
+msgstr ""
+
+msgctxt "[\"FAQ-WK\"]"
+msgid "Wiki:Android application package"
+msgstr ""
+
+msgctxt "[\"FAQ-SY\"]"
+msgid "Signing Your Applications"
+msgstr ""
+
+msgctxt "[\"FAQ-AS\"]"
+msgid "Application Signature Verification: How It Works"
+msgstr ""
+
+msgctxt "[\"FAQ-US\"]"
+msgid "Understanding Signing and Verification"
+msgstr ""
+
+msgctxt "[\"FAQ-XC\"]"
+msgid "X.509 Certificates and Certificate Revocation Lists (CRLs)"
+msgstr ""
+
+msgctxt "[\"FAQ-WHY\"]"
+msgid "Why APKPure is 100% safe?"
+msgstr ""
