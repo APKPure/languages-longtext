@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 03:55+0000\n"
+"PO-Revision-Date: 2020-10-01 23:13+0000\n"
+"Last-Translator: Kurd As <kurd68587@gmail.com>\n"
+"Language-Team: Kurdish Sorani <https://translate.apkpure.com/projects/"
+"apkpure/apkpure-longtext/ckb/>\n"
+"Language: ckb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2.2\n"
+
+msgctxt "[\"APPEAL-APPEAL\"]"
+msgid "APKPure Block Appeal"
+msgstr "داواکردن بۆ بلۆکی APKPure"
+
+msgctxt "[\"APPEAL-KEEP\"]"
+msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
+msgstr ""
+"بۆ یارمەتیدان لە بەهێز هێشتنەوەی APKPure، هەندێک جار هەندێک لە ناوەڕۆک و "
+"کردارەکان بلۆک دەکەین ئەگەر وا دەزانی ت کە هەڵەمان کردووە، تکایە پێمان بڵێ "
+"لە کاتێکدا ئێمە ناتوانین پێداچونەوە ی ڕاپۆرتی تاک بکەین، ئەو فیدباکانەی کە "
+"تۆ دەیدەیت یارمەتیمان دەدات بۆ باشترکردنی ئەو ڕێگایانەی کە لە APKPure بە "
+"سەلامەتی دەپارێزین."
+
+msgctxt "[\"APPEAL-PE\"]"
+msgid "Please explain why you think this was an error"
+msgstr "تکایە ڕوونی ببە کە بۆچی وا دەزانیت ئەمە هەڵەیەک بوو"
+
+msgctxt "[\"APPEAL-YN\"]"
+msgid "Your name"
+msgstr ""
+
+msgctxt "[\"APPEAL-YE\"]"
+msgid "Your email"
+msgstr ""
+
+msgctxt "[\"APPEAL-YM\"]"
+msgid "Your message"
+msgstr ""
+
+msgctxt "[\"APPEAL-VC\"]"
+msgid "Verification code"
+msgstr ""
+
+msgctxt "[\"APPEAL-SD\"]"
+msgid "Send"
+msgstr ""
+
+msgctxt "[\"APPEAL-SENDING\"]"
+msgid "Sending..."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-AC\"]"
+msgid "APKPure Community Guidelines"
+msgstr "ڕێنماییەکانی کۆمەڵگای APKPure"
+
+msgctxt "[\"COMMUNITY-CG\"]"
+msgid "Community Guidelines"
+msgstr "ڕێنماییەکانی کۆمەڵگا"
+
+msgctxt "[\"COMMUNITY-WY\"]"
+msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
+msgstr ""
+"کاتێک کە تۆ APKPure بەکار دێنیت، لە هەموو جیهانەوە بەشداری کۆمەڵە خەڵکێک "
+"دەکەیت هەموو تایبەتمەندییەکی کۆمەڵگەی نوێ لەسەر APKPure ئاستێکی متمانە "
+"پێکراوی تێدایە ملیۆنان بەکارهێنەر ڕێز لەو متمانەیە بگرن و ئێمەش متمانەمان بە "
+"ئێوە هەیە کە بەرپرسیار بن."
+
+msgctxt "[\"COMMUNITY-YM\"]"
+msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
+msgstr ""
+"لەوانەیە حەزت لە هەموو شتێک نەبێت کە دەیبینیت لە APKPure. ئەگەر وا دەزانی "
+"ناوەڕۆک نەشیاوە، تایبەتمەندی ڕاپۆرتەکە بەکاربهێنە بۆ پێشکەشکردنی بۆ "
+"پێداچوونەوە لەلایەن ستافی APKPure مان. ستافەکەمان بە وردی پێداچوونەوە بە "
+"ناوەڕۆکی ڕاپۆرتدا دەکەن ئەگەر پێشێلکارییەک لە ڕێنماییەکانی کۆمەڵگەکەماندا "
+"هەیە."
+
+msgctxt "[\"COMMUNITY-WR\"]"
+msgid "We respectfully request that you follow these policies when commenting on an application:"
+msgstr ""
+"ئێمە بە ڕێزەوە داوا دەکەین کە تۆ پەیڕەوی ئەم سیاسەتانە بکەیت کاتێک لێدوان "
+"لەسەر کاربەرنامەیەک بدەی:"
+
+msgctxt "[\"COMMUNITY-CT\"]"
+msgid "Don’t post content that is sexually explicit or contains profanity."
+msgstr ""
+
+msgctxt "[\"COMMUNITY-VO\"]"
+msgid "Don’t post violent or horrible or bloody images."
+msgstr "وێنەی توندوتیژ یان ترسناک یان خوێناوی مەپۆست بکە."
+
+msgctxt "[\"COMMUNITY-FR\"]"
+msgid "Don’t post fake reviews intended to boost or lower ratings."
+msgstr ""
+"پێداچوونەوەی ساختە مەدە بەنیازە بۆ بەرزکردنەوە یان نزمکردنەوەی "
+"هەڵسەنگاندنەکان."
+
+msgctxt "[\"COMMUNITY-AO\"]"
+msgid "Don’t post content that is abusive or hateful or threatens or harasses others."
+msgstr ""
+"ئەو ناوەڕۆکە بڵاو مەکەوە کە بەدکار بێت یان ڕق لێبوونەوە یان هەڕەشە یان "
+"هەراسانکردنی کەسانی تر."
+
+msgctxt "[\"COMMUNITY-CC\"]"
+msgid "Don’t post content considered spam or advertising phishing sites links."
+msgstr "ناوەڕۆکی بە پۆست یان لینکی سایتەکانی کۆتایی بڵاو مەکەوە."
+
+msgctxt "[\"COMMUNITY-DO\"]"
+msgid "Don’t post discriminatory or derogatory comments."
+msgstr "لێدوانی جیاکردنەوە یان خۆ بەکەمزانی مەنووسە."
+
+msgctxt "[\"COMMUNITY-PR\"]"
+msgid "Don’t post political, religious, and other \"prone to huge arguments\" content."
+msgstr ""
+"پۆست و ناوەڕۆکێکی سیاسی و ئایینی و هتد \"مەیسەر بۆ مشتومڕی زۆر گەورە\" مەکە."
+
+msgctxt "[\"COMMUNITY-PI\"]"
+msgid "Don't Post personally identifiable information (i.e. name, address, email, phone number, etc.), or any other information that is not publicly accessible."
+msgstr ""
+"زانیاریە کەسییە دەستنیشان نەکراوەکان (بۆ ی.ن.ک ناو، ناونیشان، ئیمەیل، ژمارەی "
+"تەلەفۆن و هتد) یان هەر زانیارییەکی تر کە بە ئاشکرا دەستناکەوێ، مەینووسە."
+
+msgctxt "[\"COMMUNITY-IO\"]"
+msgid "In order to make our community strong, you might also like to follow these guidelines and tips:"
+msgstr ""
+"بۆ ئەوەی کۆمەڵگەکەمان بەهێز بکەیت، لەوانەیە حەز بکەیت ئەم ڕێنمایی و "
+"ئامۆژگارییانە پەیڕەو بکەیت:"
+
+msgctxt "[\"COMMUNITY-KT\"]"
+msgid "Keep it readable; don't use excessive capitalization and punctuation."
+msgstr "بیهێڵەوە بخوێنرێتەوە؛ گەورەکردن و خاڵبەندی لەڕادەبەدەر بەکارنەهێنیت."
+
+msgctxt "[\"COMMUNITY-PC\"]"
+msgid "Post clear, valuable, and honest information."
+msgstr "زانیاری ڕوون، و بەنرخ، و ڕاستگۆ بڵاو بدەرەوە."
+
+msgctxt "[\"COMMUNITY-TT\"]"
+msgid "Try to include both positives and drawbacks."
+msgstr "هەوڵ بدە هەردوو پۆزەتیڤ و کەم و کوری تێدا بیت."
+
+msgctxt "[\"COMMUNITY-BN\"]"
+msgid "Be nice to others; don't attack others."
+msgstr "لەگەڵ ئەوانی تر باشە؛ هێرش مەکەنە سەر ئەوانی تر."
+
+msgctxt "[\"COMMUNITY-UP\"]"
+msgid "Use proper grammar and check your spelling."
+msgstr "ڕێزمانی گونجاو بەکاربهێنە و سپێڵەکەت بپشکنە."
+
+msgctxt "[\"COMMUNITY-MY\"]"
+msgid "Make your comments useful and informative."
+msgstr "لێدوانەکانت بەسوود و زانیاری بەخش بکە."
+
+msgctxt "[\"COMMUNITY-WW\"]"
+msgid "We will remove any comments that include such materials, and we reserve the right to block or remove any user who does not comply with these community guidelines. Thank you!"
+msgstr ""
+"هەر سەرنجێک کە ئەو جۆرە کەرەستانە لەخۆ دەگرێت لادەبەین، مافی بلۆککردن یان "
+"لابردنی هەر بەکارهێنەرێک کە پابەند نەبێت بە ڕێنماییەکانی کۆمەڵگاوە، دەهێڵین "
+"سوپاس بۆ تۆ!"
+
+msgctxt "[\"DEVELOPER-DB\"]"
+msgid "Developer Badge"
+msgstr "نیشاندەری پەرەپێدەر"
+
+msgctxt "[\"DEVELOPER-AD\"]"
+msgid "APKPure Developer Badge Explanation"
+msgstr "ڕونکردنەوەی باجدەری APKPure"
+
+msgctxt "[\"DEVELOPER-TG\"]"
+msgid "The green badge means it’s an official authenticated developer of application."
+msgstr ""
+"نیشانەی سەوز مانای ئەوەیە کە گەشەپێدەری فەرمی باوەڕپێکراوی بەرجەستەکراوەیە."
+
+msgctxt "[\"DEVELOPER-TB\"]"
+msgid "The badge appears next to the name on an account’s profile. It is always the same color and placed in the same location, regardless of profile or theme color customization."
+msgstr ""
+"باجەکە دەردەکەوێت لە تەنیشت ناوەکە لەسەر پرۆفایلی ئەژمێرێک. هەمیشە هەمان "
+"ڕەنگە و لە هەمان شوێن دادەنرێت، بەبێ گوێدانە تایبەتمەندی ڕەنگی پرۆفایل یان "
+"ڕووکار."
+
+msgctxt "[\"DEVELOPER-IA\"]"
+msgid "If accounts that don’t have the badge next to their name but that display it somewhere else, for example in the profile photo, header photo, or bio, are not verified accounts."
+msgstr ""
+"ئەگەر ئەو ئەژمێرانەی کە باجەکەیان نییە لە تەنیشت ناوی خۆیان بەڵام لە شوێنێکی "
+"تر پیشانیان دەدات، بۆ نموونە لە وێنەی پرۆفایل، وێنەی سەرپەڕە، یان بایۆ، "
+"ئەژمێرەکانی پشتڕاست نەکراوەتەوە."
+
+msgctxt "[\"DEVELOPER-DC\"]"
+msgid "Authenticated developer can post reliable comment, activity and official announcement."
+msgstr ""
+"گەشەپێدەری باوەڕپێکراو دەتوانێت لێدوان، چالاکی و ڕاگەیاندنی فەرمی "
+"باوەڕپێکراو بڵاوبکاتەوە."
+
+msgctxt "[\"DEVELOPER-HT\"]"
+msgid "How to be a Authenticated Developer?"
+msgstr "چۆن ببیت بە پەرەپێدەری باوەڕپێکراو؟"
+
+msgctxt "[\"DEVELOPER-LI\"]"
+msgid "Log in our APKPure website and enter Developer Platform."
+msgstr "داخڵکردنی وێب سایتی APKPure مان و نووسینکردنی پلاتفۆرمی پەرەپێدەر."
+
+msgctxt "[\"DEVELOPER-FI\"]"
+msgid "Fill in the necessary information and upload it."
+msgstr "پڕکردنەوە لە زانیاری پێویست و بارکردن."
+
+msgctxt "[\"DEVELOPER-AV\"]"
+msgid "Await verification by our staff."
+msgstr "چاوەڕێی سەلماندن بکە لەلایەن ستافەکەمانەوە."
+
+msgctxt "[\"DEVELOPER-PV\"]"
+msgid "Pass verification will be entitled Authenticated Developer."
+msgstr "تێپەڕبوون سەلماندن دەبێت بە ناونیشانی سەلمێنراوی پەرەپێدەر."
+
+msgctxt "[\"DEVELOPER-MA\"]"
+msgid "More Authenticated badges are still maturing. If you have more constructive suggestions, please @APKPure and tell us. Thank you!"
+msgstr ""
+"هێشتا هەر پێدەگات ئەگەر پێشنیاری بنیاتنەری زیاترت هەیە، تکایە @APKPure و "
+"پێمان بڵێ. سوپاس بۆ تۆ!"
+
+msgctxt "[\"CONTACT-CU\"]"
+msgid "Contact Us"
+msgstr "پەیوەندیمان پێوە بکە"
+
+msgctxt "[\"CONTACT-IY\"]"
+msgid "If you want to Contact APKPure administrator, Send your suggestions, Report website bugs, or Submit your apps, Please contact us using the following way:"
+msgstr ""
+"ئەگەر دەتەوێت پەیوەندی بە بەڕێوەبەری APKPure بکەیت، پێشنیارەکانت بنێرە، "
+"بەدەکانی وێب سایت ڕاپۆرت بکە، یان بەرنامەکانت پێشکەش بکە، تکایە پەیوەندیمان "
+"پێوە بکە بە بەکارهێنانی ئەم ڕێگایەی خوارەوە:"
+
+msgctxt "[\"CONTACT-SE\"]"
+msgid "Send Email: <strong>support@apkpure.com</strong>"
+msgstr ""
+
+msgctxt "[\"CONTACT-FB\"]"
+msgid "Feedback"
+msgstr ""
+
+msgctxt "[\"CONTACT-YN\"]"
+msgid "Your name"
+msgstr ""
+
+msgctxt "[\"CONTACT-YE\"]"
+msgid "Your email"
+msgstr ""
+
+msgctxt "[\"CONTACT-SB\"]"
+msgid "Subject"
+msgstr "بابەت"
+
+msgctxt "[\"CONTACT-RF\"]"
+msgid "Reason for contact"
+msgstr "هۆکاری بەردەنگ"
+
+msgctxt "[\"CONTACT-CA\"]"
+msgid "Comments and feedback"
+msgstr "لێدوان و کاردانەوە"
+
+msgctxt "[\"CONTACT-RA\"]"
+msgid "Report a problem"
+msgstr "ڕاپۆرتکردنی کێشەیەک"
+
+msgctxt "[\"CONTACT-DT\"]"
+msgid "DMCA takedown request"
+msgstr "داواکاری دابەککردنی DMCA"
+
+msgctxt "[\"CONTACT-DS\"]"
+msgid "Developer Support and Feedback"
+msgstr "پشتگیری و کاردانەوەی پەرەپێدەر"
+
+msgctxt "[\"CONTACT-OT\"]"
+msgid "Others"
+msgstr "ئەوانی تر"
+
+msgctxt "[\"CONTACT-YM\"]"
+msgid "Your message"
+msgstr "پەیامەکەت"
+
+msgctxt "[\"CONTACT-VC\"]"
+msgid "Verification code"
+msgstr ""
+
+msgctxt "[\"CONTACT-SD\"]"
+msgid "Send"
+msgstr ""
+
+msgctxt "[\"CONTACT-QO\"]"
+msgid "Questions or Comments"
+msgstr "پرسیارەکان یان سەرنجەکان"
+
+msgctxt "[\"CONTACT-SDING\"]"
+msgid "Sending..."
+msgstr ""
+
+msgctxt "[\"REPORT-AS\"]"
+msgid "URL of inappropriate content or apps"
+msgstr "URL ی ناوەڕۆکی نەگونجاو یان بەرنامە"
+
+msgctxt "[\"REPORT-YN\"]"
+msgid "Your name"
+msgstr "ناوت"
+
+msgctxt "[\"REPORT-YE\"]"
+msgid "Your email"
+msgstr "ئیمەیڵەکەت"
+
+msgctxt "[\"REPORT-RC\"]"
+msgid "Report comment:"
+msgstr "سەرنجی ڕاپۆرت:"
+
+msgctxt "[\"REPORT-PC\"]"
+msgid "Pornographic content"
+msgstr "ناوەڕۆکی پۆرنۆگرافی"
+
+msgctxt "[\"REPORT-RT\"]"
+msgid "Report tag:"
+msgstr "تاگی ڕاپۆرت:"
+
+msgctxt "[\"REPORT-MD\"]"
+msgid "Misleading"
+msgstr "چەواشەکار"
+
+msgctxt "[\"REPORT-SM\"]"
+msgid "Spamming"
+msgstr "لە سپام کردن دایە"
+
+msgctxt "[\"REPORT-OI\"]"
+msgid "Other issues"
+msgstr "کێشەکانی تر"
+
+msgctxt "[\"REPORT-HO\"]"
+msgid "Hateful or abusive content"
+msgstr "ناوەڕۆکی ڕق لێبوونەوە یان بەدکار"
+
+msgctxt "[\"REPORT-HS\"]"
+msgid "Harassment or bullying"
+msgstr "بێزارکردن یان گێچەڵپێکردن"
+
+msgctxt "[\"REPORT-FI\"]"
+msgid "Fake information or news"
+msgstr "زانیاری ساختە یان هەواڵ"
+
+msgctxt "[\"REPORT-VO\"]"
+msgid "Violence or horror related content"
+msgstr "توندوتیژی یان ناوەڕۆکی پەیوەندیدار بە ترس"
+
+msgctxt "[\"REPORT-SA\"]"
+msgid "Spamming ads or promotion"
+msgstr "بەرزکردنەوەی ڕیکلامەکان یان سپامکردن"
+
+msgctxt "[\"REPORT-TP\"]"
+msgid "Illegal prescription or other drugs related content"
+msgstr "ڕەچەتەی نایاسایی یان ناوەڕۆکی تری پەیوەست بە دەرمان"
+
+msgctxt "[\"REPORT-RU\"]"
+msgid "Report user:"
+msgstr "بەکارهێنەری ڕاپۆرت:"
+
+msgctxt "[\"REPORT-IR\"]"
+msgid "Improper rating on apps"
+msgstr "هەڵسەنگاندنێکی نەگونجاو لەسەر بەرنامەکان"
+
+msgctxt "[\"REPORT-RF\"]"
+msgid "Reason for reporting:"
+msgstr "هۆکاری ڕاپۆرتکردن:"
+
+msgctxt "[\"REPORT-MW\"]"
+msgid "Virus or malware"
+msgstr "ڤایرۆس یان گەواڵە"
+
+msgctxt "[\"REPORT-IT\"]"
+msgid "IP Infringement"
+msgstr "پێشێلکاری IP"
+
+msgctxt "[\"REPORT-FA\"]"
+msgid "Fake apps or version error"
+msgstr "هەڵەی بەرنامە یان وەشان"
+
+msgctxt "[\"REPORT-AO\"]"
+msgid "Any other things you wanna tell us?"
+msgstr "هیچ شتێکی تر هەیە کە بتەوێت پێمان بڵێیت؟"
+
+msgctxt "[\"REPORT-VC\"]"
+msgid "Verification code"
+msgstr "کۆدی سەلماندن"
+
+msgctxt "[\"REPORT-SDING\"]"
+msgid "Sending..."
+msgstr "لە ناردن دایە..."
+
+msgctxt "[\"REPORT-SD\"]"
+msgid "Send"
+msgstr "ناردن"
+
+msgctxt "[\"REPORT-SE\"]"
+msgid "Send Email: <strong>support@apkpure.com</strong>"
+msgstr "ئیمەیڵ بنێرە: <strong>support@apkpure.com</strong>"
+
+msgctxt "[\"REPORT-FB\"]"
+msgid "Feedback"
+msgstr "لێدوان"
+
+msgctxt "[\"REPORT-SR\"]"
+msgid "Submit a Report"
+msgstr "ناردنی ڕاپۆرتێک"
+
+msgctxt "[\"FAQ-WW\"]"
+msgid "Why we can guarantee APK 100% safe?"
+msgstr "بۆچی دەتوانین ٪١٠٠ دڵنیایی بە APK بدەین؟"
+
+msgctxt "[\"FAQ-WA\"]"
+msgid "Why <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is 100% safe?"
+msgstr ""
+"بۆچی <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is "
+"100% safe?"
+
+msgctxt "[\"FAQ-NW\"]"
+msgid "Note: We’ll decline all APKs with ‘debug’ certificate, which are not safe."
+msgstr ""
+"تێبینی: هەموو APKs بە بڕوانامەی 'هەڵباککردن' کە سەلامەت نین، ڕەتی دەکەینەوە."
+
+msgctxt "[\"FAQ-TB\"]"
+msgid "Trusted Badge"
+msgstr "بانجی باوەڕپێکراو"
+
+msgctxt "[\"FAQ-OR\"]"
+msgid "Official records from APKPure and Google Play confirm that the developer used a trusted and verified digital signature. The downloadable file is original and it has not been modified in any way."
+msgstr ""
+"تۆمارە ڕەسمیەکان لە APKPure و گۆگڵ پلەی ئەوە پشتڕاست دەکەن کە گەشەپێدەرەکە "
+"ئیمزای دیجیتاڵی باوەڕپێکراو و سەلمێنراوی بەکارهێناوە. فایلی داگرتن رەسەنو و "
+"بە هیچ شێوەیەک دەستکاری نەکراوە."
+
+msgctxt "[\"FAQ-WU\"]"
+msgid "Why using SHA1 to check the identification of certificate is safe?"
+msgstr "بۆچی بەکارهێنانی SHA1 بۆ پشکنینی ناسنامەی بڕوانامەکە سەلامەتە؟"
+
+msgctxt "[\"FAQ-TA\"]"
+msgid "That’s a cryptography problem. Please refer to the following authoritative information to check the reason."
+msgstr ""
+"ئەوە کێشەیەکی نهێنییە، تکایە ئاماژە بە زانیارییەکە ریپێدراوی خوارەوە بکە بۆ "
+"پشکنینی هۆکارەکە."
+
+msgctxt "[\"FAQ-HD\"]"
+msgid "How do we make sure the updated Apps are real and created by the respective developers?"
+msgstr ""
+"چۆن دڵنیابین لەوەی بەرنامە نوێکراوەکان ڕاستەقینەن و لەلایەن گەشەپێدەرەکانی "
+"بەردەستەوە دروست دەکرێن؟"
+
+msgctxt "[\"FAQ-AA\"]"
+msgid "All APKPure.com apps are verified prior to publishing."
+msgstr "هەموو APKPure.com بەرنامەکان دووپاتکراوەتەوە پێش بڵاوکردنەوە."
+
+msgctxt "[\"FAQ-WM\"]"
+msgid "We make sure that the cryptographic signatures for new versions of all previously published apps match the original ones, which means we know if the new version APKs were signed by the real devs or someone pretending to be them."
+msgstr ""
+"دڵنیای دەکەینەوە کە ئیمزا کریپتیکراوەکان بۆ وەشانە نوێیەکانی هەموو بەرنامە "
+"بڵاوکراوەکانی پێشوو هاوتان لەگەڵ ئەو بەرنامە ڕەسەنانە، واتە دەزانین ئەگەر "
+"بێتو وەشانی APKs ی نوێ واژوویان کردووە لەلایەن دیڤی راستەقینە یان کەسێک وا "
+"خۆی پیشان بدات کە ئەوانن."
+
+msgctxt "[\"FAQ-FN\"]"
+msgid "For new apps that have never been published on APKPure.com, we try to match the signatures to other existing apps by the same developer. If there’s a match, it means that the same key was used to sign a previously known legitimate app, therefore validating the new upload. If we’re unable to verify the legitimacy of a new APK, we will simply not publish it on APKPure.com."
+msgstr ""
+"بۆ ئەو بەرنامە نوێیانەی کە هەرگیز بڵاونەکراونەتەوە لە APKPure.com، هەوڵ "
+"دەدەین واژووەکان لەگەڵ بەرنامەکانی تری بەردەست دا هاوتا بکەین لەلایەن هەمان "
+"پەرەپێدەر. ئەگەر هاوکێشیەک هەبوو، ئەوە مانای وایە هەمان کلیل بەکارهێنراوە بۆ "
+"واژووکردنی بەرنامەی شەرعی ناسراو پێشتر، بۆیە بارکردنی نوێی ڕاست کردنەوە. "
+"ئەگەر نەمانتوانی وا لە شەرعیەتی APK ی نوێ بسەلمێنین، بە سادەیی لە سەر بنەمای "
+"APKPure.com بڵاوناکەینەوه."
+
+msgctxt "[\"FAQ-RF\"]"
+msgid "References"
+msgstr "سەرچاوەکان"
+
+msgctxt "[\"FAQ-WK\"]"
+msgid "Wiki:Android application package"
+msgstr "ویکی:پاکێجی بەرنامەی ئەندرۆید"
+
+msgctxt "[\"FAQ-SY\"]"
+msgid "Signing Your Applications"
+msgstr "واژووکردنی بەرنامەکانت"
+
+msgctxt "[\"FAQ-AS\"]"
+msgid "Application Signature Verification: How It Works"
+msgstr "دووپاتکراوەی ئیمزای بەرنامە: چۆن کاردەکەن"
+
+msgctxt "[\"FAQ-US\"]"
+msgid "Understanding Signing and Verification"
+msgstr "تێگەیشتن لە ئیمزاکردن و دووپاتکردنەوەی"
+
+msgctxt "[\"FAQ-XC\"]"
+msgid "X.509 Certificates and Certificate Revocation Lists (CRLs)"
+msgstr "ئێکس.٥٠٩ بڕوانامەکان و لیستەکانی بەتاڵکردنەوەی بڕوانامە (CRLs)"
+
+msgctxt "[\"FAQ-WHY\"]"
+msgid "Why APKPure is 100% safe?"
+msgstr "بۆچی APKPure ٪١٠٠ سەلامەتە؟"
