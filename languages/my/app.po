@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-04 03:55+0000\n"
-"PO-Revision-Date: 2021-02-18 04:30+0000\n"
-"Last-Translator: BTS ARMY <thiha.cpu@gmail.com>\n"
+"PO-Revision-Date: 2021-02-23 08:32+0000\n"
+"Last-Translator: zaw zaw <www.uzaw321@gmail.com>\n"
 "Language-Team: Burmese <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/my/>\n"
 "Language: my\n"
@@ -22,9 +22,10 @@ msgctxt "[\"APPEAL-KEEP\"]"
 msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
 msgstr "Myanmar language"
 
+#, fuzzy
 msgctxt "[\"APPEAL-PE\"]"
 msgid "Please explain why you think this was an error"
-msgstr ""
+msgstr "ဘာကြောင့်ဒီဟာမှားတယ်လို့ထင်ရတာလဲဆိုတာရှင်းပြပါ"
 
 msgctxt "[\"APPEAL-YN\"]"
 msgid "Your name"
@@ -56,7 +57,7 @@ msgstr "APKPure ရပ်ရွာလမ်းညွှန်ချက်မျ�
 
 msgctxt "[\"COMMUNITY-CG\"]"
 msgid "Community Guidelines"
-msgstr ""
+msgstr "ရပ်ရွာလမ်းညွှန်ချက်မျာ"
 
 msgctxt "[\"COMMUNITY-WY\"]"
 msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
@@ -69,74 +70,117 @@ msgstr ""
 msgctxt "[\"COMMUNITY-YM\"]"
 msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
 msgstr ""
+"APKPure မှာမြင်ရသမျှကိုသင်မကြိုက်ဘူး။ "
+"အကြောင်းအရာသည်မသင့်လျော်ဟုသင်ထင်ပါကကျွန်ုပ်တို့၏ APKPure ၀ "
+"န်ထမ်းများမှပြန်လည်သုံးသပ်ရန်အစီရင်ခံစာအင်္ဂါရပ်ကိုအသုံးပြုပါ။ ကျွန်ုပ်တို့၏ "
+"၀ န်ထမ်းများသည်ကျွန်ုပ်တို့၏ရပ်ရွာလမ်းညွှန်ချက်များကိုချိုးဖောက်ခြင်းရှိ၊"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-WR\"]"
 msgid "We respectfully request that you follow these policies when commenting on an application:"
 msgstr ""
+"လျှောက်လွှာအပေါ်မှတ်ချက်ပေးသောအခါဤမူဝါဒများကိုသင်လိုက်နာရန်ကျွန်ုပ်တို့လေးလေး"
+"စားစားတောင်းဆိုပါသည် -"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CT\"]"
 msgid "Don’t post content that is sexually explicit or contains profanity."
-msgstr ""
+msgstr "Appearl https://www.facebook.com/chukwuemeka.blessing.754"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-VO\"]"
 msgid "Don’t post violent or horrible or bloody images."
 msgstr ""
+"အကြမ်းဖက်ခြင်း၊ "
+"ကြောက်မက်ဖွယ်ကောင်းသောသို့မဟုတ်သွေးထွက်သံယိုပုံများမတင်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-FR\"]"
 msgid "Don’t post fake reviews intended to boost or lower ratings."
 msgstr ""
+"အဆင့်သတ်မှတ်ချက်များကိုမြှင့်တင်ရန်သို့မဟုတ်လျှော့ချရန်ရည်ရွယ်သည့်ပြန်လည်သုံး"
+"သပ်ခြင်းအတုများကိုမတင်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-AO\"]"
 msgid "Don’t post content that is abusive or hateful or threatens or harasses others."
 msgstr ""
+"အခြားသူများအားခြိမ်းခြောက်ခြင်းသို့မဟုတ်နှောင့်ယှက်ခြင်းတို့ကိုဖြစ်စေမတင်ပါနှ"
+"င့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-CC\"]"
 msgid "Don’t post content considered spam or advertising phishing sites links."
 msgstr ""
+"spam များသို့မဟုတ် phishing sites "
+"များနှင့်သက်ဆိုင်သောကြော်ငြာများကိုအကြောင်းအရာများမတင်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-DO\"]"
 msgid "Don’t post discriminatory or derogatory comments."
-msgstr ""
+msgstr "ခွဲခြားဆက်ဆံမှုဖြစ်စေ၊"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PR\"]"
 msgid "Don’t post political, religious, and other \"prone to huge arguments\" content."
 msgstr ""
+"နိုင်ငံရေး၊ ဘာသာရေးနှင့်အခြား \"ကြီးမားသောအငြင်းပွားဖွယ်ရာအကြောင်းအရာများ\" "
+"အကြောင်းအရာများကိုမတင်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PI\"]"
 msgid "Don't Post personally identifiable information (i.e. name, address, email, phone number, etc.), or any other information that is not publicly accessible."
 msgstr ""
+"ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များ (အမည်၊ လိပ်စာ၊ အီးမေးလ်၊ ဖုန်းနံပါတ်စသည်) သိ"
+"ု့မဟုတ်လူသိရှင်ကြားမရောက်ရှိနိုင်သောအခြားမည်သည့်သတင်းအချက်အလက်ကိုမတင်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-IO\"]"
 msgid "In order to make our community strong, you might also like to follow these guidelines and tips:"
 msgstr ""
+"ကျွန်ုပ်တို့၏အသိုင်းအဝိုင်းအားကောင်းလာစေရန်ဤလမ်းညွှန်ချက်များနှင့်အကြံပြုချက်"
+"များကိုသင်လိုက်နာလိုပေလိမ့်မည် -"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-KT\"]"
 msgid "Keep it readable; don't use excessive capitalization and punctuation."
 msgstr ""
+"ဖတ်လို့ရအောင်ထားပါ၊ "
+"အလွန်အကျွံစာလုံးအကြီးနှင့်ပုဒ်ဖြတ်ပုဒ်ဖြတ်အသုံးမပြုပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-PC\"]"
 msgid "Post clear, valuable, and honest information."
-msgstr ""
+msgstr "ရှင်းလင်းသော၊ တန်ဖိုးရှိသော၊ ရိုးသားသည့်သတင်းများကိုတင်ပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-TT\"]"
 msgid "Try to include both positives and drawbacks."
-msgstr ""
+msgstr "အားသာချက်များနှင့်အားနည်းချက်များကိုပါထည့်သွင်းပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-BN\"]"
 msgid "Be nice to others; don't attack others."
-msgstr ""
+msgstr "သူတစ်ပါးကိုချစ်ကြလော့။ အခြားသူများကိုမတိုက်ခိုက်ပါနှင့်။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-UP\"]"
 msgid "Use proper grammar and check your spelling."
-msgstr ""
+msgstr "သင့်တော်သောသဒ္ဒါကိုသုံးပြီးသင်၏စာလုံးပေါင်းကိုစစ်ဆေးပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-MY\"]"
 msgid "Make your comments useful and informative."
-msgstr ""
+msgstr "သင်၏ထင်မြင်ချက်များကိုအသုံး ၀ င်ပြီးသိကောင်းစရာများဖြစ်စေပါ။"
 
+#, fuzzy
 msgctxt "[\"COMMUNITY-WW\"]"
 msgid "We will remove any comments that include such materials, and we reserve the right to block or remove any user who does not comply with these community guidelines. Thank you!"
 msgstr ""
+"ကျွန်ုပ်တို့သည်ထိုကဲ့သို့သောပစ္စည်းများပါ ၀ "
+"င်သည့်မည်သည့်မှတ်ချက်များကိုမဆိုကျွန်ုပ်တို့ဖယ်ရှားပါမည်။ ဤအသိုင်းအဝိုင်းလမ်း"
+"ညွှန်ချက်များနှင့်မကိုက်ညီသောမည်သည့်အသုံးပြုသူကိုမဆိုပိတ်ဆို့ခွင့်သို့မဟုတ်ဖယ"
+"်ရှားခွင့်ရှိသည်။ ကျေးဇူးတင်ပါတယ်!"
 
 msgctxt "[\"DEVELOPER-DB\"]"
 msgid "Developer Badge"
