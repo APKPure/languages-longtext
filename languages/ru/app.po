@@ -3,37 +3,35 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:05+0000\n"
-"PO-Revision-Date: 2019-03-19 01:36+0000\n"
-"Last-Translator: chenhsi Liang <lchenhsi@gmail.com>\n"
+"PO-Revision-Date: 2021-03-01 17:35+0000\n"
+"Last-Translator: Diyar Nassyrov <diyar96.31@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.2.2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #, fuzzy
 msgctxt "[\"APPEAL-APPEAL\"]"
 msgid "APKPure Block Appeal"
 msgstr "Жалоба о блокировке APKPure"
 
-#, fuzzy
 msgctxt "[\"APPEAL-KEEP\"]"
 msgid "To help keep APKPure strong, we sometimes block certain content and actions. If you think we've made a mistake, please let us know. While we aren't able to review individual reports, the feedback you provide will help us improve the ways we keep APKPure safe."
 msgstr ""
-"Мы иногда блокируем определенный контент и действия, чтобы сохранить APKPure "
-"сильным,. Если вы считаете, что мы допустили ошибку, сообщите нам об этом. "
-"Хотя мы не можем просматривать отдельные жалобы, но те отзывы, которые вы "
-"предоставляете, помогут нам улучшить способы для сохранения безопасности "
-"APKPure."
+"Чтобы сохранить надежность APKPure, мы иногда блокируем определенный контент "
+"и действия. Если вы считаете, что мы ошиблись, сообщите нам об этом. Хотя мы "
+"не можем просматривать отдельные отчеты, ваши отзывы помогут нам улучшить "
+"способы обеспечения безопасности APKPure."
 
 #, fuzzy
 msgctxt "[\"APPEAL-PE\"]"
 msgid "Please explain why you think this was an error"
-msgstr "Объясните, пожалуйста, почему вы считаете, что это  ошибка"
+msgstr "Объясните, пожалуйста, почему вы считаете, что это ошибка"
 
 #, fuzzy
 msgctxt "[\"APPEAL-YN\"]"
@@ -65,17 +63,14 @@ msgctxt "[\"APPEAL-SENDING\"]"
 msgid "Sending..."
 msgstr "Отправляется..."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-AC\"]"
 msgid "APKPure Community Guidelines"
 msgstr "Руководство Сообщества APKPure"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-CG\"]"
 msgid "Community Guidelines"
 msgstr "Руководство Сообщества"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-WY\"]"
 msgid "When you use APKPure, you join a community of people from all over the world. Every cool, new community feature on APKPure involves a certain level of trust. Millions of users respect that trust and we trust you to be responsible too."
 msgstr ""
@@ -84,7 +79,6 @@ msgstr ""
 "определенный уровень доверия. Миллионы пользователей уважают это доверие, и "
 "мы верим, что вы тоже несете ответственность."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-YM\"]"
 msgid "You might not like everything you see on APKPure. If you think content is inappropriate, use the report feature to submit it for review by our APKPure staff. Our staff carefully reviews report content whether there’s a violation of our Community Guidelines."
 msgstr ""
@@ -93,7 +87,6 @@ msgstr ""
 "рассмотрение нашим сотрудникам APKPure. Наши сотрудники тщательно "
 "анализируют содержание жалобы о нарушении правил сообщества."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-WR\"]"
 msgid "We respectfully request that you follow these policies when commenting on an application:"
 msgstr ""
@@ -103,49 +96,40 @@ msgstr ""
 #, fuzzy
 msgctxt "[\"COMMUNITY-CT\"]"
 msgid "Don’t post content that is sexually explicit or contains profanity."
-msgstr ""
-"Не публикуйте контент, который является откровенно сексуальным или содержит "
-"ненормативную лексику."
+msgstr "https://www.facebook.com/chukwuemeka.blessing.754"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-VO\"]"
 msgid "Don’t post violent or horrible or bloody images."
 msgstr "Не публикуйте насильственные или ужасные или кровавые изображения."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-FR\"]"
 msgid "Don’t post fake reviews intended to boost or lower ratings."
 msgstr ""
 "Не публикуйте фальшивые отзывы, предназначенные для повышения или понижения "
 "рейтингов."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-AO\"]"
 msgid "Don’t post content that is abusive or hateful or threatens or harasses others."
 msgstr ""
 "Не публикуйте контент, который является оскорбительным и ненавистным, или "
 "угрожает и донимает других."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-CC\"]"
 msgid "Don’t post content considered spam or advertising phishing sites links."
 msgstr ""
 "Не публикуйте контент, который считается спамом или ссылками на фишинговые "
 "сайты."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-DO\"]"
 msgid "Don’t post discriminatory or derogatory comments."
 msgstr "Не отправляйте дискриминационные или уничижительные комментарии."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-PR\"]"
 msgid "Don’t post political, religious, and other \"prone to huge arguments\" content."
 msgstr ""
-"Не публикуйте политические, религиозные и другие контенты,которые склонны к "
+"Не публикуйте политические, религиозные и другие контенты, которые склонны к "
 "огромным аргументам."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-PI\"]"
 msgid "Don't Post personally identifiable information (i.e. name, address, email, phone number, etc.), or any other information that is not publicly accessible."
 msgstr ""
@@ -153,7 +137,6 @@ msgstr ""
 "почты, номер телефона и т. д.), Или любую другую информацию, которая не "
 "является общедоступной."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-IO\"]"
 msgid "In order to make our community strong, you might also like to follow these guidelines and tips:"
 msgstr ""
@@ -343,7 +326,6 @@ msgctxt "[\"CONTACT-OT\"]"
 msgid "Others"
 msgstr "Другие"
 
-#, fuzzy
 msgctxt "[\"CONTACT-YM\"]"
 msgid "Your message"
 msgstr "Ваше сообщение"
