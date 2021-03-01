@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:05+0000\n"
-"PO-Revision-Date: 2021-03-01 17:35+0000\n"
+"PO-Revision-Date: 2021-03-01 17:37+0000\n"
 "Last-Translator: Diyar Nassyrov <diyar96.31@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ru/>\n"
@@ -143,51 +143,42 @@ msgstr ""
 "Вы также можете следовать этим рекомендациям и советам, чтобы сделать наше "
 "сообщество сильным:"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-KT\"]"
 msgid "Keep it readable; don't use excessive capitalization and punctuation."
 msgstr ""
 "Держите его читаемым; не используйте чрезмерную капитализацию и пунктуацию."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-PC\"]"
 msgid "Post clear, valuable, and honest information."
 msgstr "Опубликуйте четкую, ценную и честную информацию."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-TT\"]"
 msgid "Try to include both positives and drawbacks."
-msgstr "Попробуйте комментировать как положительные, так и недостатки."
+msgstr "Попробуйте комментировать как положительные, так и отрицательные."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-BN\"]"
 msgid "Be nice to others; don't attack others."
 msgstr "Подружитесь с другим пользователем; не нападайте на других."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-UP\"]"
 msgid "Use proper grammar and check your spelling."
 msgstr "Используйте правильную грамматику и проверьте правописание."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-MY\"]"
 msgid "Make your comments useful and informative."
 msgstr "Сделайте ваши комментарии полезными и информативными."
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-WW\"]"
 msgid "We will remove any comments that include such materials, and we reserve the right to block or remove any user who does not comply with these community guidelines. Thank you!"
 msgstr ""
 "Мы удалим все комментарии, содержащие такие материалы, и оставляем за собой "
-"право заблокировать или удалить любого      пользователя, который не "
+"право заблокировать или удалить любого пользователя, который не "
 "соответствует этим правилам сообщества. Спасибо!"
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-DB\"]"
 msgid "Developer Badge"
 msgstr "Значок разработчика"
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-AD\"]"
 msgid "APKPure Developer Badge Explanation"
 msgstr "Пояснение значка разработчика APKPure"
