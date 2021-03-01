@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-02 10:05+0000\n"
-"PO-Revision-Date: 2021-03-01 17:37+0000\n"
+"PO-Revision-Date: 2021-03-01 19:40+0000\n"
 "Last-Translator: Diyar Nassyrov <diyar96.31@gmail.com>\n"
 "Language-Team: Russian <https://translate.apkpure.com/projects/apkpure/"
 "apkpure-longtext/ru/>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#, fuzzy
 msgctxt "[\"APPEAL-APPEAL\"]"
 msgid "APKPure Block Appeal"
 msgstr "Жалоба о блокировке APKPure"
@@ -28,7 +27,6 @@ msgstr ""
 "не можем просматривать отдельные отчеты, ваши отзывы помогут нам улучшить "
 "способы обеспечения безопасности APKPure."
 
-#, fuzzy
 msgctxt "[\"APPEAL-PE\"]"
 msgid "Please explain why you think this was an error"
 msgstr "Объясните, пожалуйста, почему вы считаете, что это ошибка"
@@ -93,7 +91,6 @@ msgstr ""
 "Мы с уважением просим вас следовать этим правилам при комментировании "
 "приложения:"
 
-#, fuzzy
 msgctxt "[\"COMMUNITY-CT\"]"
 msgid "Don’t post content that is sexually explicit or contains profanity."
 msgstr "https://www.facebook.com/chukwuemeka.blessing.754"
@@ -183,23 +180,18 @@ msgctxt "[\"DEVELOPER-AD\"]"
 msgid "APKPure Developer Badge Explanation"
 msgstr "Пояснение значка разработчика APKPure"
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-TG\"]"
 msgid "The green badge means it’s an official authenticated developer of application."
 msgstr ""
-"Зеленый значок означает, что он является официальным сертифицированным "
-"разработчиком приложения.\n"
-"Значок появляется рядом с именем в профиле учетной записи. Он всегда одного "
-"цвета и размещен в одном месте, независимо от настройки профиля или темы."
+"Зеленый значок означает, что это официальный разработчик приложения, "
+"прошедший проверку подлинности."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-TB\"]"
 msgid "The badge appears next to the name on an account’s profile. It is always the same color and placed in the same location, regardless of profile or theme color customization."
 msgstr ""
 "Значок появляется рядом с именем в профиле учетной записи. Он всегда одного "
 "цвета и размещен в одном месте, независимо от настройки профиля или темы."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-IA\"]"
 msgid "If accounts that don’t have the badge next to their name but that display it somewhere else, for example in the profile photo, header photo, or bio, are not verified accounts."
 msgstr ""
@@ -208,59 +200,48 @@ msgstr ""
 "фотографии заголовка или биографии, не являются проверенными учетными "
 "записями."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-DC\"]"
 msgid "Authenticated developer can post reliable comment, activity and official announcement."
 msgstr ""
-"Аутентифицированный разработчик может опубликовать надежный комментарий, "
-"активность и официальное объявление."
+"Прошедший проверку разработчик может оставлять надежные комментарии, "
+"действия и официальные объявления."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-HT\"]"
 msgid "How to be a Authenticated Developer?"
-msgstr "Как стать аутентифицированным разработчиком?"
+msgstr "Как быть проверенным разработчиком?"
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-LI\"]"
 msgid "Log in our APKPure website and enter Developer Platform."
-msgstr "Войдите в наш сайт APKPure и войдите в платформу разработчика."
+msgstr "Войдите на наш сайт APKPure и войдите в Платформу Разработчика."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-FI\"]"
 msgid "Fill in the necessary information and upload it."
 msgstr "Заполните необходимую информацию и загрузите ее."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-AV\"]"
 msgid "Await verification by our staff."
-msgstr "Подождите проверки нашими сотрудниками."
+msgstr "Ждите проверки нашими сотрудниками."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-PV\"]"
 msgid "Pass verification will be entitled Authenticated Developer."
-msgstr ""
-"После прохождения проверки будет озаглавлена  аутентифицированным "
-"разработчиком."
+msgstr "Пройденная проверка получит название Authenticated Developer."
 
-#, fuzzy
 msgctxt "[\"DEVELOPER-MA\"]"
 msgid "More Authenticated badges are still maturing. If you have more constructive suggestions, please @APKPure and tell us. Thank you!"
 msgstr ""
-"Больше удостоверений на подлинность все еще созревают. Если у вас есть более "
+"Еще больше значков, прошедших проверку подлинности. Если у вас есть более "
 "конструктивные предложения, пожалуйста, @APKPure и сообщите нам. Спасибо!"
 
-#, fuzzy
 msgctxt "[\"CONTACT-CU\"]"
 msgid "Contact Us"
-msgstr "Контакт"
+msgstr "Связаться с нами"
 
-#, fuzzy
 msgctxt "[\"CONTACT-IY\"]"
 msgid "If you want to Contact APKPure administrator, Send your suggestions, Report website bugs, or Submit your apps, Please contact us using the following way:"
 msgstr ""
 "Если вы хотите связаться с администратором APKPure, отправьте свои "
-"предложения, сообщите об ошибках веб-сайта или отправьте свои приложения,  "
-"пожалуйста, свяжитесь с нами, используя следующий способ:"
+"предложения, Сообщите об ошибках веб-сайта или Отправьте свои приложения, "
+"Пожалуйста, свяжитесь с нами, используя следующий способ:"
 
 #, fuzzy
 msgctxt "[\"CONTACT-SE\"]"
@@ -282,37 +263,30 @@ msgctxt "[\"CONTACT-YE\"]"
 msgid "Your email"
 msgstr "Электронная почта"
 
-#, fuzzy
 msgctxt "[\"CONTACT-SB\"]"
 msgid "Subject"
 msgstr "Тема"
 
-#, fuzzy
 msgctxt "[\"CONTACT-RF\"]"
 msgid "Reason for contact"
-msgstr "Причина контакта"
+msgstr "Причина обращения"
 
-#, fuzzy
 msgctxt "[\"CONTACT-CA\"]"
 msgid "Comments and feedback"
 msgstr "Комментарии и отзывы"
 
-#, fuzzy
 msgctxt "[\"CONTACT-RA\"]"
 msgid "Report a problem"
 msgstr "Сообщить о проблеме"
 
-#, fuzzy
 msgctxt "[\"CONTACT-DT\"]"
 msgid "DMCA takedown request"
-msgstr "Запрос на демонтаж DMCA"
+msgstr "Запрос DMCA на удаление"
 
-#, fuzzy
 msgctxt "[\"CONTACT-DS\"]"
 msgid "Developer Support and Feedback"
-msgstr "Поддержка разработчиков и отзывы"
+msgstr "Поддержка Разработчиков и Отзывы"
 
-#, fuzzy
 msgctxt "[\"CONTACT-OT\"]"
 msgid "Others"
 msgstr "Другие"
@@ -331,7 +305,6 @@ msgctxt "[\"CONTACT-SD\"]"
 msgid "Send"
 msgstr "отправить"
 
-#, fuzzy
 msgctxt "[\"CONTACT-QO\"]"
 msgid "Questions or Comments"
 msgstr "Вопросы или Комментарии"
@@ -455,7 +428,7 @@ msgstr "Отправить жалобу"
 
 msgctxt "[\"FAQ-WW\"]"
 msgid "Why we can guarantee APK 100% safe?"
-msgstr "Почему APK на 100% безопасен?"
+msgstr "Почему мы можем гарантировать 100% безопасность APK?"
 
 msgctxt "[\"FAQ-WA\"]"
 msgid "Why <a target=\"_blank\" href=\"https://apkpure.com\">apkpure.com</a> is 100% safe?"
